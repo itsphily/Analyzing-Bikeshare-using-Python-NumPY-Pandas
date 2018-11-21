@@ -250,7 +250,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
         i=0
-        peek =input("would you like to look at 5 lines of the dataset(type no if you would like to skip this step):\n")
+        peek =input("would you like to look at 5 lines of the dataset(type no to skip this step):\n")
         while peek.lower()!="no" and peek.lower()!="stop":
             print(len(df))
             if i>len(df):
