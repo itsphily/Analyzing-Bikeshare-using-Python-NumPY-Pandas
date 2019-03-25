@@ -19,6 +19,6 @@ washington.csv
 This project was done within the Intro to Programming Nanodegree offered by Udacity.
 
 ### Skills learned
-Python (Loops,user for input,Handle exceptions)
+Python (loops, user for input, handle exceptions)
 Pandas
 Numpy
